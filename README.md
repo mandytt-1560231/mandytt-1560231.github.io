@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>mandytt-1560231</title>
